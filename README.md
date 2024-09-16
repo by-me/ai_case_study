@@ -40,4 +40,5 @@ My_First_bootcamp_project
 ## Addendum
 
 - [InstaDeep Official Website](https://www.instadeep.com)
-- [AI in Healthcare](https://example-link.com)
+- [Artificial Intelligence in Healthcare: A Comprehensive Overview](https://emerj.com/ai-sector-overviews/artificial-intelligence-in-healthcare-a-comprehensive-overview/)
+
